@@ -1,0 +1,6 @@
+{
+    "name": "composer/composer",
+    "require": {
+        "sendgrid/sendgrid": "~5.1"
+    }
+}

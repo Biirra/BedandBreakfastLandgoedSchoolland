@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21c09019-426b-4b73-ad8f-579b3f9756ac" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/kunstler-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/kunstler-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ameland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/appinedam 1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/borkum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/damsterveer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/delfzijl strand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/delfzijl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekenstein 2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekenstein.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/germany_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/groninger museum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/haven.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Banner 01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Banner 02.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Banner 03.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Banner 04.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Banner 05.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Banner 06.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 10.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 11.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 12.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 13.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 14.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 15.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 16.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 17.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 18.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 19.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 20.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 21.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 22.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Foto 9.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Open_book - kopie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Open_book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/images/gezond-ontbijt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/kerk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/martini toren.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/martnikerkhof.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/molen 2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/molen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/netherlands_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pizza-bakken-terras.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pizza-in-oven.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/plaatje-kropped.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/plaatje.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/recht.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/recht2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/regthuys-binnen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/schier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spa 1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/spa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terras.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/united_kingdom_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Bed&amp;Breakfast.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/account-verificatie/verificatie-mail-send.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/account-verificatie/verificatie-succes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/admin_panel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/config/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/css/admin-paneel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/includes/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/includes/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/js/filterable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/login/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/login/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beheer/login/session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calendar/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eilanden-ameland.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eilanden-borkum.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eilanden-schiermonnikoog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faciliteiten.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/generator_config.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/specimen_files/grid_12-825-55-15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/specimen_files/specimen_stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fotos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/framework.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gastenboek.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/kalenderdata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/fotos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/reserveren.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lunch-diner-ontspanning-grandcafe-restaurant-bij-de-molen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lunch-diner-ontspanning-landgoed-ekenstein.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lunch-diner-ontspanning-restaurant-'t-regthuys-wirdum-groningen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lunch-diner-ontspanning-spa-loppersum.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nieuws-brief/css/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nieuws-brief/js/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nieuws-brief/nieuws-brief.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omgeving-garrelsweer-appingedam.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omgeving-garrelsweer-delfzijl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omgeving-garrelsweer-groningenstad.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza-workshop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prijzen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reserveren.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taal/duits.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taal/engels.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taal/nederlands.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/.github/ISSUE_TEMPLATE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/examples/example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/lib/Client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/lib/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/test/unit/ClientTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/test/unit/MockClient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/test/unit/ResponseTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/php-http-client/test/unit/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/.github/ISSUE_TEMPLATE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/TROUBLESHOOTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/USAGE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/USE_CASES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/accesssettings/accesssettings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/alerts/alerts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/apikeys/apikeys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/asm/asm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/browsers/browsers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/campaigns/campaigns.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/categories/categories.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/clients/clients.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/contactdb/contactdb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/devices/devices.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/geo/geo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/helpers/mail/example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/ips/ips.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/mail/mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/mailboxproviders/mailboxproviders.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/mailsettings/mailsettings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/partnersettings/partnersettings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/scopes/scopes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/senders/senders.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/stats/stats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/subusers/subusers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/suppression/suppression.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/templates/templates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/trackingsettings/trackingsettings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/user/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/examples/whitelabel/whitelabel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/lib/SendGrid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/lib/helpers/mail/Mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/lib/helpers/mail/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/lib/loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/scripts/generate_upload_policy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/scripts/s3policy.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/scripts/s3upload.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/sendgrid-php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/test/prism.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/test/unit/SendGridTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/test/unit/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/test/unit/helpers/mail/MailTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/sendgrid/sendgrid/test/unit/phpunit.xml.dist" />
+    </list>
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Bed&amp;Breakfast" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>table-</find>
+      <find>table</find>
+      <find>width</find>
+      <find>erro</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/omgeving-garrelsweer-groningenstad.php" />
+        <option value="$PROJECT_DIR$/omgeving-garrelsweer-delfzijl.php" />
+        <option value="$PROJECT_DIR$/eilanden-schiermonnikoog.php" />
+        <option value="$PROJECT_DIR$/eilanden-ameland.php" />
+        <option value="$PROJECT_DIR$/lunch-diner-ontspanning-landgoed-ekenstein.php" />
+        <option value="$PROJECT_DIR$/lunch-diner-ontspanning-restaurant-'t-regthuys-wirdum-groningen.php" />
+        <option value="$PROJECT_DIR$/lunch-diner-ontspanning-grandcafe-restaurant-bij-de-molen.php" />
+        <option value="$PROJECT_DIR$/lunch-diner-ontspanning-spa-loppersum.php" />
+        <option value="$PROJECT_DIR$/taal/duits.php" />
+        <option value="$PROJECT_DIR$/nieuws-brief/css/stylesheet.css" />
+        <option value="$PROJECT_DIR$/taal/engels.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/config/config.php" />
+        <option value="$PROJECT_DIR$/mailtest.php" />
+        <option value="$PROJECT_DIR$/beheer/js/filterable.js" />
+        <option value="$PROJECT_DIR$/calendertest/6-little-calendar/index.html" />
+        <option value="$PROJECT_DIR$/calendertest/index.js" />
+        <option value="$PROJECT_DIR$/calendertest/index.html" />
+        <option value="$PROJECT_DIR$/calendar/index.html" />
+        <option value="$PROJECT_DIR$/includes/kalendertest.php" />
+        <option value="$PROJECT_DIR$/js/reserveren.js" />
+        <option value="$PROJECT_DIR$/includes/kalenderdata.php" />
+        <option value="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/taal/nederlands.php" />
+        <option value="$PROJECT_DIR$/prijzen.php" />
+        <option value="$PROJECT_DIR$/beheer/includes/config.php" />
+        <option value="$PROJECT_DIR$/beheer/login/login.php" />
+        <option value="$PROJECT_DIR$/beheer/css/admin-paneel.css" />
+        <option value="$PROJECT_DIR$/beheer/includes/functions.php" />
+        <option value="$PROJECT_DIR$/beheer/admin_panel.php" />
+        <option value="$PROJECT_DIR$/framework/footer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/includes/functions.php" />
+        <option value="$PROJECT_DIR$/gastenboek.php" />
+        <option value="$PROJECT_DIR$/framework/header.php" />
+        <option value="$PROJECT_DIR$/js/fotos.js" />
+        <option value="$PROJECT_DIR$/fotos.php" />
+        <option value="$PROJECT_DIR$/eilanden-borkum.php" />
+        <option value="$PROJECT_DIR$/calendar/calendar.js" />
+        <option value="$PROJECT_DIR$/reserveren.php" />
+        <option value="$PROJECT_DIR$/testslide.css" />
+        <option value="$PROJECT_DIR$/testslide.js" />
+        <option value="$PROJECT_DIR$/testslide.min.js" />
+        <option value="$PROJECT_DIR$/testfotoslide.php" />
+        <option value="$PROJECT_DIR$/responsiveslides.css" />
+        <option value="$PROJECT_DIR$/responsiveslides.js" />
+        <option value="$PROJECT_DIR$/responsiveslides.min.js" />
+        <option value="$PROJECT_DIR$/css/stylesheet.css" />
+        <option value="$PROJECT_DIR$/framework/framework.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bed&amp;Breakfast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bed&amp;Breakfast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bed&amp;Breakfast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bed&amp;Breakfast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bed&amp;Breakfast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bed&amp;Breakfast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="composer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bed&amp;Breakfast" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bed&amp;Breakfast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Bed&amp;Breakfast\font" />
+      <recent name="C:\xampp\htdocs\Bed&amp;Breakfast\img\images" />
+      <recent name="C:\xampp\htdocs\Bed&amp;Breakfast" />
+      <recent name="C:\xampp\htdocs\Bed&amp;Breakfast\calendertest" />
+      <recent name="C:\xampp\htdocs\Bed&amp;Breakfast\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Bed&amp;Breakfast\fotoslide" />
+      <recent name="C:\xampp\htdocs\Bed&amp;Breakfast\font" />
+      <recent name="C:\xampp\htdocs\Bed&amp;Breakfastdesign" />
+      <recent name="C:\xampp\htdocs\Bed&amp;Breakfast\beheer" />
+      <recent name="C:\xampp\htdocs\Bed&amp;Breakfast" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21c09019-426b-4b73-ad8f-579b3f9756ac" name="Default" comment="" />
+      <created>1493709931515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493709931515</updated>
+      <workItem from="1493709932909" duration="11126000" />
+      <workItem from="1493795991559" duration="14835000" />
+      <workItem from="1493881649342" duration="15582000" />
+      <workItem from="1494237138741" duration="10526000" />
+      <workItem from="1494273197908" duration="4095000" />
+      <workItem from="1494315287304" duration="10634000" />
+      <workItem from="1494405230661" duration="14642000" />
+      <workItem from="1494487473753" duration="4929000" />
+      <workItem from="1494496696695" duration="4801000" />
+      <workItem from="1494574181661" duration="2438000" />
+      <workItem from="1494919924299" duration="20865000" />
+      <workItem from="1495013027536" duration="13848000" />
+      <workItem from="1495102804026" duration="95000" />
+      <workItem from="1495442319466" duration="16383000" />
+      <workItem from="1495523009922" duration="5510000" />
+      <workItem from="1496061356618" duration="256000" />
+      <workItem from="1496063420665" duration="2018000" />
+      <workItem from="1496128346710" duration="5332000" />
+      <workItem from="1497874538458" duration="1990000" />
+      <workItem from="1500478405683" duration="1750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="161655000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.171875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/images/Foto 2.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/images/Foto 3.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/images/Foto 4.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/images/Foto 5.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/images/Foto 6.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/images/Foto 7.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/images/Foto 8.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/images/Foto 9.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/images/Foto 10.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.min.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="125" lean-forward="false" selection-start-line="0" selection-start-column="109" selection-end-line="0" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="16430" lean-forward="false" selection-start-line="4" selection-start-column="16329" selection-end-line="4" selection-end-column="16430" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taal/duits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="126" column="21" lean-forward="false" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beheer/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beheer/css/admin-paneel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="179" column="13" lean-forward="false" selection-start-line="179" selection-start-column="13" selection-end-line="179" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beheer/includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="250" column="12" lean-forward="false" selection-start-line="250" selection-start-column="12" selection-end-line="250" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beheer/includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beheer/login/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="64" column="71" lean-forward="false" selection-start-line="64" selection-start-column="71" selection-end-line="64" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/images/Open_book - kopie.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding>
+            <element signature="e#7#69#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gastenboek.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/images/Foto 1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eilanden-borkum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/fotos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/reserveren.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar/calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font/specimen_files/grid_12-825-55-15.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fotoslide/README.md" />
+    <entry file="file://$PROJECT_DIR$/fotoslide/demo/themes/themes.html" />
+    <entry file="file://$PROJECT_DIR$/prijzen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reserveren.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="645" column="0" lean-forward="false" selection-start-line="645" selection-start-column="0" selection-end-line="645" selection-end-column="0" />
+          <folding>
+            <marker date="1496154234000" expanded="true" signature="613:623" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="812:822" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="1022:1032" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="1223:1233" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="1429:1439" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="1632:1642" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="1831:1841" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="2039:2049" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="2255:2265" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="2463:2473" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="2836:2846" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="2956:2966" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="3249:3259" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="3369:3379" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="3592:3602" ph="..." />
+            <marker date="1496154234000" expanded="true" signature="3862:3872" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="244" column="30" lean-forward="false" selection-start-line="244" selection-start-column="32" selection-end-line="251" selection-end-column="3" />
+          <folding>
+            <marker date="1497874640326" expanded="true" signature="5887:6138" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eilanden-ameland.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taal/nederlands.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="87" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fotos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="29" column="52" lean-forward="false" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="26" lean-forward="false" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_real.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="82" lean-forward="false" selection-start-line="55" selection-start-column="77" selection-end-line="55" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/framework.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beheer/admin_panel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1481">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
